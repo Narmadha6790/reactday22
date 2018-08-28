@@ -1,0 +1,20 @@
+Creating local referenc
+
+npm init in modeule _usage
+Go to the usage module and install sample module
+go to source and link
+
+usage 
+npm link sample-module
+npm install
+node app.js
+
+
+Globally
+create a account
+login thru
+cmd
+narmadharaju
+narmadha.dinesh02@gmail.com
+
+npm publish
